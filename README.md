@@ -20,7 +20,7 @@ proyecto-feliz-año-nuevo-2025/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/CristoferMG/proyecto-feliz-año-nuevo-2025.git
+   git clone https://cristofermg.github.io/Proyecto-Feliz-2025/
 
 2. Navega al directorio src y abre el archivo index.html en tu navegador.
 

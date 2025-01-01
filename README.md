@@ -9,10 +9,12 @@ Puedes visualizar la animación descargando los archivos y abriéndolos en tu na
 ## Estructura del proyecto
 
 proyecto-feliz-año-nuevo-2025/ 
+```cpp
 ├── src/
 │ ├── index.html  # Archivo principal HTML 
 │ ├── style.css   # Archivo de estilos CSS 
 ├── README.md     # Este archivo de documentación
+```
 
 ## Cómo usar este proyecto
 
